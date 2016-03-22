@@ -1,4 +1,4 @@
 #Initial Doc
 
 - First point
-- Secont point
+- Second point
